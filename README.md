@@ -35,7 +35,7 @@ The model we tried first was Random Forest since it has the feature importance a
 
 ### Random Forest Model - Part Two
 
-![RandomForestSpacyModel](https://user-images.githubusercontent.com/79724188/142333705-1983a6bf-e3dc-442c-b46e-0f31ecc09f83.png)
+![RandomForestSpacyModel](https://user-images.githubusercontent.com/79724188/142335071-367a6c1f-e7ff-462b-b5d1-a091610359b5.png)
 
 This next Random Forest model was run with the Spacy dataset with less favorable results than the first. However, it's worth noting that this model has run with all of our data, including the neutral tweets that were not part of the manually sorted data created earlier. So if were are to use this model with this particular data, it is perhaps a better model for companies who are interested in the full spectrum of emotion, including apathy. 
 
